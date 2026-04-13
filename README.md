@@ -40,6 +40,8 @@ Suggested reading order:
 2. `docs/adrs/ADR-003-responsive-layout-via-css-utility-classes.md`
 3. `docs/adrs/ADR-004-shared-metric-badges-work-grid-cursor-preview.md`
 4. `docs/adrs/ADR-005-audit-driven-ux-a11y-polish.md`
+5. `docs/adrs/ADR-008-adr-update-gate-for-major-pushes.md`
+6. `docs/adrs/ADR-023-figma-mcp-handoff-jop-tokens.md`
 
 ## Redaction policy
 
